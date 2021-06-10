@@ -7,7 +7,7 @@
     "apollo-datasource-rest": "^0.8.0",
     "apollo-server": "^2.9.7",
     "apollo-server-express": "^2.9.7",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "express-fileupload": "^1.1.6",
     "express-formidable": "^1.2.0",
